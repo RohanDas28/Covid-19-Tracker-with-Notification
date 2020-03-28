@@ -28,7 +28,7 @@ if __name__ == "__main__":
 
 
         states = ['Delhi','West Bengal', 'Maharashtra',] # Enter Your State Name Here (Dont Enter More Than 5 States)
-        for item in myList[0:25]:
+        for item in myList[0:27]:
             dataList = (item.split('\n'))
             if dataList[1] in states:
                 notify_title= 'Cases of Covid-19 In India'
