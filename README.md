@@ -5,7 +5,7 @@
 ---
 ### Instructions
  1. Make sure you have [**Python** ](https://www.python.org/)(Version 3.7 or higher) installed in your system.
- 2. Open the folder in CMD and type ``` pip install -r requirements.txt ```.
+ 2. Open the folder in CMD and type ``` pip install -r requirements.txt ``` for installing all the required packages.
  4. Now edit the **main.py** file using your favorite code editor(Example: Sublime text editor, VSCode, Vim).
  5. Enter Your State Name in Line no 30. (Don't enter more than 5 States). (Example: states = ['Delhi', 'West Bengal', 'Maharashtra',])
  7. Now save the file, close the editor and run **main.py**.
